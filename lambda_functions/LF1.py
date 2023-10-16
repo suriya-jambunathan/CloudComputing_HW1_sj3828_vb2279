@@ -293,7 +293,7 @@ def diningsuggestion_intent(intent_request):
         date = session_vals[0]["BookingDate"]
         booking_time = session_vals[0]["BookingTime"]
         phone = session_vals[0]["phone"]
-        source = intent_request['invocationSource']   # so
+        source = intent_request['invocationSource']   
         intent_request = set_slots(intent_request,session_vals)
     
         
@@ -306,7 +306,7 @@ def diningsuggestion_intent(intent_request):
         date = get_slots(intent_request)["BookingDate"]
         booking_time = get_slots(intent_request)["BookingTime"]
         phone = get_slots(intent_request)["phone"]
-        source = intent_request['invocationSource']   # souce?invocationSource?
+        source = intent_request['invocationSource']   
   
     if source == 'DialogCodeHook':
         # Perform basic validation on the supplied input slots.

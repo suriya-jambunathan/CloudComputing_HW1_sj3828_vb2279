@@ -46,9 +46,9 @@ def send_email(sender_email, message):
 def elastic_search_id(cuisine):
     headers = {'content-type': 'application/json'}
     
-    esUrl = 'https://search-restaurants-es-kqunhfv22hcd5vd4drlsp6ggve.us-east-1.es.amazonaws.com/_search?q=cuisine:'+cuisine+ '&size=5'
+    esUrl = 'https://search-restaurants-es-*****.us-east-1.es.amazonaws.com/_search?q=cuisine:'+cuisine+ '&size=5'
   
-    esResponse = requests.get(esUrl, auth=("cchw1es", "CcHW1_pwd"), headers=headers)
+    esResponse = requests.get(esUrl, auth=("<username>", "<pwd>"), headers=headers)
    
     #logger.debug("esResponse: {}".format(esResponse.text))
     data = json.loads(esResponse.content.decode('utf-8'))
@@ -100,15 +100,7 @@ sqs_client = boto3.client("sqs", region_name="us-east-1")
 
 def receive_message(response):
     
-    # sqs_client = boto3.client("sqs", region_name="us-east-1")
-    # response = sqs_client.receive_message(
-    #     QueueUrl="https://sqs.us-east-1.amazonaws.com/230469209761/restaurant_request",
-    #     MaxNumberOfMessages=1,
-    #     WaitTimeSeconds=10,
-    # )
-
-    # if message in response["Messages"][0] is None:
-    #     return None,None,None
+    
     print(response)
     if not (response and "Records" in response):
         print("no messages")
@@ -154,7 +146,7 @@ def receive_message(response):
             #print(Message_to_send)
             
             sqs_client.delete_message(
-                QueueUrl="https://sqs.us-east-1.amazonaws.com/230469209761/restaurant_request",
+                QueueUrl="https://sqs.us-east-1.amazonaws.com/*****/restaurant_request",
                 ReceiptHandle=message['receiptHandle']
             )
             response = send_email(customer_email, Message_to_send)
