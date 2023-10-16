@@ -5,7 +5,7 @@
 
 ## Chatbot Architecure
 <p>
-<img src="./other_scripts/screenshots/Architecture_diagam.jpg" width="700" height="500" align="center">
+<img src="./other_scripts/screenshots/Architecture_diagram.jpg" width="700" height="500" align="center">
 </p>
 
 ## Conversation with Dining Suggestions Chatbot
