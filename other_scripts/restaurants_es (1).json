@@ -1,0 +1,1650 @@
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "1"
+    }
+}
+{
+    "business_id": "x0k5kFArHLijdY8-NEQ7Xg",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "2"
+    }
+}
+{
+    "business_id": "m5Whyz8O8jM4DrE808h71g",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "3"
+    }
+}
+{
+    "business_id": "A-ert0jDRBfku9ogyW_mEg",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "4"
+    }
+}
+{
+    "business_id": "QqrEF8_ZQCGi63cL10J5oA",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "5"
+    }
+}
+{
+    "business_id": "XLEdQl5s1bO5Iu43W_c96Q",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "6"
+    }
+}
+{
+    "business_id": "1_pK5aQ47atF50oAKHADhA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "7"
+    }
+}
+{
+    "business_id": "HEs6llkn3wIP1ATXeIZQew",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "8"
+    }
+}
+{
+    "business_id": "z2VXX7wGl8XZ6_oo9W3koA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "9"
+    }
+}
+{
+    "business_id": "jf3JRaxUYU93x8LFU-8gkA",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "10"
+    }
+}
+{
+    "business_id": "Xqk91WuhMeYS4pedccUYgA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "11"
+    }
+}
+{
+    "business_id": "jSMfV_e4Jh1DKoCnngOiQQ",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "12"
+    }
+}
+{
+    "business_id": "9pMhRYYgV7E9L7pzECtJKA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "13"
+    }
+}
+{
+    "business_id": "objNX6cuj1JyUijFjw21Qw",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "14"
+    }
+}
+{
+    "business_id": "u_CnSp9FieAuWqhvCn-A2A",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "15"
+    }
+}
+{
+    "business_id": "5UowQyu8tSljomOP-VL7NA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "16"
+    }
+}
+{
+    "business_id": "ut-560tVcs2g-ZU0Y_qqHQ",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "17"
+    }
+}
+{
+    "business_id": "izRJeBfDQYJmd6ibIQ6Mfg",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "18"
+    }
+}
+{
+    "business_id": "ZikqL-flwV2XYlKtL2UfmA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "19"
+    }
+}
+{
+    "business_id": "kS2CP48K66yL2TwIhUqy_A",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "20"
+    }
+}
+{
+    "business_id": "NgD-6ogFGc_c4z5_Ur4k2g",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "21"
+    }
+}
+{
+    "business_id": "jYhbUh1TV7SCfPxjIhVpcg",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "22"
+    }
+}
+{
+    "business_id": "7VIUu8ay754GoUYEpsmxOA",
+    "cuisine": "indian",
+    "rating": 5.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "23"
+    }
+}
+{
+    "business_id": "Txm8KtUh9Mn2E7980jTr5g",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "24"
+    }
+}
+{
+    "business_id": "iLjrQvbUYPj6NLkalyau0w",
+    "cuisine": "indian",
+    "rating": 5.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "25"
+    }
+}
+{
+    "business_id": "qhXIW0LDT4XsoN2IE6dZHg",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "26"
+    }
+}
+{
+    "business_id": "xWVHj2XNcxEg79Nkb5Zb6Q",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "27"
+    }
+}
+{
+    "business_id": "7USPKYeaAfxl0Ch9j_1l7A",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "28"
+    }
+}
+{
+    "business_id": "50eKjWOB-H9iuo1ocACOaQ",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "29"
+    }
+}
+{
+    "business_id": "XKy4Cy4uNgO7rxhH4yFJQQ",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "30"
+    }
+}
+{
+    "business_id": "tN37MOvqzrmpU0h0PfoDmw",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "31"
+    }
+}
+{
+    "business_id": "lxNU-aBq0yPwBDx-i89ahA",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "32"
+    }
+}
+{
+    "business_id": "_7BGw3YFNOTzP1Www3zB7g",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "33"
+    }
+}
+{
+    "business_id": "Xl-zlT0NLLiKhym88em22w",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "34"
+    }
+}
+{
+    "business_id": "t6PzD4uzBOfyCLcd_lT8cQ",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "35"
+    }
+}
+{
+    "business_id": "jvPYm9rYK-5ddnjU30Oz4Q",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "36"
+    }
+}
+{
+    "business_id": "sCHiXF4mZcsiY8_cBHNiqw",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "37"
+    }
+}
+{
+    "business_id": "BPyt7S9TdcR1u571iacg7g",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "38"
+    }
+}
+{
+    "business_id": "ePn4BwyXeY8NKN-MWSgfrQ",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "39"
+    }
+}
+{
+    "business_id": "RARUAVWONyRQovr0D6TGQg",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "40"
+    }
+}
+{
+    "business_id": "nd0uXNXaeaDMuMk4C1GusA",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "41"
+    }
+}
+{
+    "business_id": "guwS_mhhUjOT5d8sYfEluQ",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "42"
+    }
+}
+{
+    "business_id": "3hlAeWgSKAnSQ1tg8k8D8g",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "43"
+    }
+}
+{
+    "business_id": "XgqIDfU6tKPUdRxRG5uDNw",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "44"
+    }
+}
+{
+    "business_id": "Q7wFlNr4OFU0eCJXcOmopg",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "45"
+    }
+}
+{
+    "business_id": "GNPne4Il-itbn2sLbvMo1g",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "46"
+    }
+}
+{
+    "business_id": "FqYgcc7Mk2XrYJ10OGgghQ",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "47"
+    }
+}
+{
+    "business_id": "_R6EjbrynW_LFnmWoRqgww",
+    "cuisine": "indian",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "48"
+    }
+}
+{
+    "business_id": "KXD44wWmrGf7mzyyr0bikw",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "49"
+    }
+}
+{
+    "business_id": "raGF9jAO7JOiIbFQ2_bTAg",
+    "cuisine": "indian",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "50"
+    }
+}
+{
+    "business_id": "dOQjniOt57mI9l9CmrCSJQ",
+    "cuisine": "indian",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "51"
+    }
+}
+{
+    "business_id": "wctR1TrheHAwpHZ2sJknEw",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "52"
+    }
+}
+{
+    "business_id": "tV6Tgw6FS45BRHyQ207jag",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "53"
+    }
+}
+{
+    "business_id": "krZunArZFdp_2G1arwVuVw",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "54"
+    }
+}
+{
+    "business_id": "6eVNHrnp67ZniJYLik1qig",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "55"
+    }
+}
+{
+    "business_id": "VSPkVw9gSQx-5v4A6aC_YA",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "56"
+    }
+}
+{
+    "business_id": "lxHKbp0hReRBPZcq4fUUow",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "57"
+    }
+}
+{
+    "business_id": "0FaLilJs2VN83hOEBcBnPg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "58"
+    }
+}
+{
+    "business_id": "EuWNk5SJB7wADVHoCtxAqg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "59"
+    }
+}
+{
+    "business_id": "B55Ocx5RBWxo6AGSucYSIA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "60"
+    }
+}
+{
+    "business_id": "DEp-9JVnKN7eTb9A_mUlfA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "61"
+    }
+}
+{
+    "business_id": "xEnNFXtMLDF5kZDxfaCJgA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "62"
+    }
+}
+{
+    "business_id": "lUpyqsKw-IBqsMgYIHZj7Q",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "63"
+    }
+}
+{
+    "business_id": "owYYuyLvlsdjLz68c3SSfg",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "64"
+    }
+}
+{
+    "business_id": "-QIPdiq5ILg_EJqdVoCqEA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "65"
+    }
+}
+{
+    "business_id": "1p4dUaLyzIhN5n1lJnHSgA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "66"
+    }
+}
+{
+    "business_id": "vx2JV9juVzSBRGWHOZCTAQ",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "67"
+    }
+}
+{
+    "business_id": "D_Rjd2js4_lkk51Obvlveg",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "68"
+    }
+}
+{
+    "business_id": "eDNSaUzzYbhEXFnN6Jnc4w",
+    "cuisine": "arabic",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "69"
+    }
+}
+{
+    "business_id": "GeoR6dpTUEpdIoyAd68Irg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "70"
+    }
+}
+{
+    "business_id": "ExvoimQ4LzY3UWtZ6m6Lgw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "71"
+    }
+}
+{
+    "business_id": "Rj2ACaJcbroJLPDhRhzvBw",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "72"
+    }
+}
+{
+    "business_id": "VMugGjWqmOfCXnYv_7aFWw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "73"
+    }
+}
+{
+    "business_id": "IFZ3_d01uflGixWrrD8_gg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "74"
+    }
+}
+{
+    "business_id": "jAaVnUKLITkuhzwXIe0vLQ",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "75"
+    }
+}
+{
+    "business_id": "bNO0801dOoSSFJuDdTDzYQ",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "76"
+    }
+}
+{
+    "business_id": "51YLgpfHKfXxOkDFe9sT-w",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "77"
+    }
+}
+{
+    "business_id": "kpxXi23lUQkeJQH-2BtzDw",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "78"
+    }
+}
+{
+    "business_id": "Ti-957LNURM0Gy2CXIbQOw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "79"
+    }
+}
+{
+    "business_id": "32163sAKsk3y_HagU9oIUA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "80"
+    }
+}
+{
+    "business_id": "kp5HpNxyJQGY13VDN-Yq9Q",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "81"
+    }
+}
+{
+    "business_id": "W4hobe10Fy54MKqmLaObEg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "82"
+    }
+}
+{
+    "business_id": "i38R1KxL99JoG-Ns7FyyGw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "83"
+    }
+}
+{
+    "business_id": "CuwHhq1MKX5hm8YyxtqukQ",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "84"
+    }
+}
+{
+    "business_id": "3FzpZE56CHuipiY_JDT3EA",
+    "cuisine": "arabic",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "85"
+    }
+}
+{
+    "business_id": "7CM15wd5d8WC_pHR674YXA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "86"
+    }
+}
+{
+    "business_id": "Znj2D9i2Rsc_PqaJhE_kFw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "87"
+    }
+}
+{
+    "business_id": "Jqnm2_8Rt70YYQBhhFLwGQ",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "88"
+    }
+}
+{
+    "business_id": "yXK9VSId2tqYNmk-31jAEQ",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "89"
+    }
+}
+{
+    "business_id": "TxHx1fb8O_MsfQB_ODdTQg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "90"
+    }
+}
+{
+    "business_id": "RqCMsa0IuHWhML0BEjW8_w",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "91"
+    }
+}
+{
+    "business_id": "a96iMO6bSkMHOZ4Wrv-Lcg",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "92"
+    }
+}
+{
+    "business_id": "4fNKBr3mlxKHfCojW0i_Uw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "93"
+    }
+}
+{
+    "business_id": "jwssDDRcC88xejYw0ZyFkw",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "94"
+    }
+}
+{
+    "business_id": "B3vbVvQOofXU6lFkrN1_2A",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "95"
+    }
+}
+{
+    "business_id": "L-IuiVoFMDSw2K6OAciP1g",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "96"
+    }
+}
+{
+    "business_id": "Bt6RoIcazXayp1a8lMSvzA",
+    "cuisine": "arabic",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "97"
+    }
+}
+{
+    "business_id": "Abkg91TpQMon-svPoRmdyQ",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "98"
+    }
+}
+{
+    "business_id": "uwx3yy7Wu5u55EiXRv03aQ",
+    "cuisine": "arabic",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "99"
+    }
+}
+{
+    "business_id": "UqYxtrutXYdielZXMFLZug",
+    "cuisine": "arabic",
+    "rating": 3.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "100"
+    }
+}
+{
+    "business_id": "BODtGPQP__QyMMI7zWvtTA",
+    "cuisine": "arabic",
+    "rating": 5.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "101"
+    }
+}
+{
+    "business_id": "klAhw3xLQi9GF1tf_HnS7w",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "102"
+    }
+}
+{
+    "business_id": "wpT1QU7PSQgQQ1DkzI00JA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "103"
+    }
+}
+{
+    "business_id": "Xjgz-WB5XJTR6LGbhNkQrA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "104"
+    }
+}
+{
+    "business_id": "g2Y6tEvxajhphg6mnUd7zQ",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "105"
+    }
+}
+{
+    "business_id": "6lUsFj0KCao678o9L7QwUw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "106"
+    }
+}
+{
+    "business_id": "7iY35991NhQ1AShJZCNZgA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "107"
+    }
+}
+{
+    "business_id": "FlZ1zdVEKWv7dwqm8Uw8-w",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "108"
+    }
+}
+{
+    "business_id": "diz6_4TVSP6EdWEZCZ0Acg",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "109"
+    }
+}
+{
+    "business_id": "hUf1EpnxbxFU4gf2nL7H-Q",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "110"
+    }
+}
+{
+    "business_id": "OFfZUS-nu6NDnsWe1B2bUQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "111"
+    }
+}
+{
+    "business_id": "v8y7NLCC25KY_lSbcs3UPA",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "112"
+    }
+}
+{
+    "business_id": "axqp3pGJXnTLgq2QrPyDyQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "113"
+    }
+}
+{
+    "business_id": "aK2ipD9K8-usBw_gkvvJuw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "114"
+    }
+}
+{
+    "business_id": "dUfKnUnwaYKciyoRzDBLEw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "115"
+    }
+}
+{
+    "business_id": "3QIFBLKp2Z9zA-PXlUEQlg",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "116"
+    }
+}
+{
+    "business_id": "l_RAv09V67j-Hm9dyZxWhw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "117"
+    }
+}
+{
+    "business_id": "flHcoaHEWxACgc-Vk9MsOQ",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "118"
+    }
+}
+{
+    "business_id": "7OMGEtFWT6sdd9TVuoGqJQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "119"
+    }
+}
+{
+    "business_id": "479rycCXZojMT9S0cl8Oxg",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "120"
+    }
+}
+{
+    "business_id": "YC-wGlO0oOkEIaCEDZv-ag",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "121"
+    }
+}
+{
+    "business_id": "cT48RskMO_o35Ua0tlifyQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "122"
+    }
+}
+{
+    "business_id": "gDcpB3AnhXv9-NUf_3chEA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "123"
+    }
+}
+{
+    "business_id": "1blUj3PW4tIPhZNhAlGgFw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "124"
+    }
+}
+{
+    "business_id": "9bAyxRD6RsGEUQw424ovQA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "125"
+    }
+}
+{
+    "business_id": "eQ4QUGvuHGBzsOrphsVc6A",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "126"
+    }
+}
+{
+    "business_id": "MLBqYHtCwACXgmKxYTFq3g",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "127"
+    }
+}
+{
+    "business_id": "-J8VuX3wGrYSOBu2G0hMsw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "128"
+    }
+}
+{
+    "business_id": "xFp3xSQ43J-i7nmJfNBsZA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "129"
+    }
+}
+{
+    "business_id": "X8yEmEDD9ZTkHoIRFqzcRw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "130"
+    }
+}
+{
+    "business_id": "n0SCwBzyUe13mDcxTp-ZTw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "131"
+    }
+}
+{
+    "business_id": "HZWHBfeuP4Fb6y8b8uqnbA",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "132"
+    }
+}
+{
+    "business_id": "_IkMfWpOkQXRZtJAYJUJIw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "133"
+    }
+}
+{
+    "business_id": "wjIyCBEpCG_HRp8veiI0YQ",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "134"
+    }
+}
+{
+    "business_id": "YoR6ouUwehLFnBQ7RAjPlw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "135"
+    }
+}
+{
+    "business_id": "1DfbZ0VsSCg9g1KILmnvzQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "136"
+    }
+}
+{
+    "business_id": "DuKEM58WxRQ2QqtuGRs5Hw",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "137"
+    }
+}
+{
+    "business_id": "kwq1W0opBnOYKoUXWYyQ5g",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "138"
+    }
+}
+{
+    "business_id": "Hfq50FEuWpPgc9nXBOO1IA",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "139"
+    }
+}
+{
+    "business_id": "r6r-XK_wL02FQdAgaauTxg",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "140"
+    }
+}
+{
+    "business_id": "XfOCJ841dL9fPBY_BAyayA",
+    "cuisine": "japanese",
+    "rating": 5.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "141"
+    }
+}
+{
+    "business_id": "bBF9ZJZp6Dxoc2Qms4KmhQ",
+    "cuisine": "japanese",
+    "rating": 5.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "142"
+    }
+}
+{
+    "business_id": "BPZfuPvSxCfoppU4lPFm0Q",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "143"
+    }
+}
+{
+    "business_id": "Ms1p17KsYteDlkvHnllC2g",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "144"
+    }
+}
+{
+    "business_id": "SxKvgnkMMZdhBJcxxKQnww",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "145"
+    }
+}
+{
+    "business_id": "5ZgCfc1_fotAKUp7n3YJkQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "146"
+    }
+}
+{
+    "business_id": "VzstANC68PM1BbyOcDXEtw",
+    "cuisine": "japanese",
+    "rating": 4.0
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "147"
+    }
+}
+{
+    "business_id": "iGmQlzlI4g2ky8cogfDpnQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "148"
+    }
+}
+{
+    "business_id": "72FarxYcWbvPfHC5IitJKg",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "149"
+    }
+}
+{
+    "business_id": "pNe8ZCkGTe4cXfKdOF7kYQ",
+    "cuisine": "japanese",
+    "rating": 4.5
+}
+{
+    "index": {
+        "_index": "restaurants",
+        "_id": "150"
+    }
+}
+{
+    "business_id": "X83qWL5WPR-QWGXGQ8WP-Q",
+    "cuisine": "japanese",
+    "rating": 4.5
+}

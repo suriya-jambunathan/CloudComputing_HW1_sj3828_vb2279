@@ -1,0 +1,18 @@
+Index creation:
+--------------
+curl -u master_username:master_password -X PUT "https://search-restaurants-es-******.us-east-1.es.amazonaws.com/restaurants?pretty"
+
+
+
+Bulk Loading of Data:
+
+1) First download data onto machine from S3.
+
+curl -O https://vb2279cchw1.s3.amazonaws.com/restaurants_es_data.json
+
+
+2) Load Data.
+
+curl -XPUT -u 'master_username: master_password' 'https://search-restaurants-es-*****.us-east-1.es.amazonaws.com/restaurants/_bulk?pretty' --data-binary @restaurants_es_data.json -H 'Content-Type: application/json'
+
+
